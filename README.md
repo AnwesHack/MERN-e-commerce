@@ -67,8 +67,7 @@ The server codebase features a seamless fallback mechanic leveraging Node `proce
 5. Configure Start Command:
    `npm start`
 6. Open **Advanced > Environment Variables** and map your `.env` fields heavily defining `NODE_ENV = production`.
-7. Hit **Deploy**. The robust path resolving inside `/backend/server.js` hosts it fluidly!
-
+7. Hit **Deploy**. The robust path resolving inside `/backend/server.js` hosts it fluidly!!
 ---
 
 ## 📄 Postman Documentations
